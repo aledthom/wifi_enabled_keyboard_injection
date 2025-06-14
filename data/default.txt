@@ -1,0 +1,3 @@
+REM This is the default payload
+REM It is loaded automatically
+REM Feel free to change it
